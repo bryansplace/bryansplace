@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm just starting with Github, so please excuse any mistakes.
 <!--
 **bryansplace/bryansplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
